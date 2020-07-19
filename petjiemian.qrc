@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>petjiemian/haogandu1.png</file>
+        <file>petjiemian/hapgandu.png</file>
+        <file>petjiemian/healthy (1).png</file>
+        <file>petjiemian/jiankang.png</file>
+        <file>petjiemian/jinbi.png</file>
+        <file>petjiemian/shengming.png</file>
+        <file>petjiemian/shiwu.png</file>
+        <file>petjiemian/siwang.png</file>
+        <file>petjiemian/store.png</file>
+        <file>petjiemian/tizhong.png</file>
+        <file>petjiemian/zhiliao.jpg</file>
+        <file>petjiemian/wanshau.jpg</file>
+        <file>petjiemian/huanchang.jpg</file>
+        <file>petjiemian/fuhuo.jpg</file>
+        <file>petjiemian/weishi.jpg</file>
+        <file>petjiemian/youxi.jpg</file>
+        <file>petjiemian/youxibeijing.jpg</file>
+        <file>petjiemian/jieduan1.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>store/fuHuo.png</file>
+        <file>store/juice.png</file>
+        <file>store/pay.png</file>
+        <file>store/riceBall.png</file>
+        <file>store/spunSugar.png</file>
+        <file>store/beijing.jpg</file>
+        <file>store/apple.png</file>
+        <file>store/beijing.png</file>
+    </qresource>
+</RCC>

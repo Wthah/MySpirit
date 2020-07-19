@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jiemian/degnlu1.jpg</file>
+        <file>jiemian/denglu.jpg</file>
+        <file>jiemian/denglu.png</file>
+    </qresource>
+</RCC>

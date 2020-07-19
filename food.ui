@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>food</class>
+ <widget class="QWidget" name="food">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>978</width>
+    <height>325</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>978</width>
+    <height>325</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>978</width>
+    <height>325</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="sButton">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>190</y>
+     <width>71</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+background-color: rgb(116, 165, 255);
+color: rgb(170, 85, 0);
+
+border-radius:10px;
+border-width:0;
+border-style:outset</string>
+   </property>
+   <property name="text">
+    <string>使用</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>190</y>
+     <width>71</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+background-color: rgb(116, 165, 255);
+color: rgb(170, 85, 0);
+
+border-radius:10px;
+border-width:0;
+border-style:outset</string>
+   </property>
+   <property name="text">
+    <string>使用</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="jButton">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>190</y>
+     <width>71</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+background-color: rgb(116, 165, 255);
+color: rgb(170, 85, 0);
+
+border-radius:10px;
+border-width:0;
+border-style:outset</string>
+   </property>
+   <property name="text">
+    <string>使用</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="aButton">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>190</y>
+     <width>71</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+background-color: rgb(116, 165, 255);
+color: rgb(170, 85, 0);
+
+border-radius:10px;
+border-width:0;
+border-style:outset</string>
+   </property>
+   <property name="text">
+    <string>使用</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="fButton">
+   <property name="geometry">
+    <rect>
+     <x>790</x>
+     <y>190</y>
+     <width>71</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+background-color: rgb(116, 165, 255);
+color: rgb(170, 85, 0);
+
+border-radius:10px;
+border-width:0;
+border-style:outset</string>
+   </property>
+   <property name="text">
+    <string>使用</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="sLabel">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>70</y>
+     <width>141</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/store/spunSugar.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="rLabel">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>80</y>
+     <width>91</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/store/riceBall.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="jLabel">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>64</y>
+     <width>101</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/store/juice.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="aLabel">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>90</y>
+     <width>71</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/store/apple.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="fLabel">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>80</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/store/fuHuo.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="sNum">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>140</y>
+     <width>31</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+
+color: rgb(170, 85, 0);
+qproperty-alignment:AlignHCenter;
+
+background:transparent;border-width:0;border-style:outset</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="rNum">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>140</y>
+     <width>31</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+color: rgb(170, 85, 0);
+font: 75 9pt &quot;等线&quot;;
+
+qproperty-alignment:AlignHCenter;
+
+background:transparent;border-width:0;border-style:outset</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="jNum">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>140</y>
+     <width>31</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+
+color: rgb(170, 85, 0);
+qproperty-alignment:AlignHCenter;
+
+background:transparent;border-width:0;border-style:outset</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="aNum">
+   <property name="geometry">
+    <rect>
+     <x>670</x>
+     <y>140</y>
+     <width>31</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+
+color: rgb(170, 85, 0);
+qproperty-alignment:AlignHCenter;
+
+background:transparent;border-width:0;border-style:outset</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="fNum">
+   <property name="geometry">
+    <rect>
+     <x>830</x>
+     <y>140</y>
+     <width>31</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 9pt &quot;等线&quot;;
+
+color: rgb(170, 85, 0);
+qproperty-alignment:AlignHCenter;
+
+background:transparent;border-width:0;border-style:outset</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

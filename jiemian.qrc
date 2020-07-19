@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jiemian/degnlu1.jpg</file>
+        <file>jiemian/denglu.jpg</file>
+        <file>jiemian/zhuce.jpg</file>
+        <file>jiemian/zhanghao.png</file>
+        <file>jiemian/mima.png</file>
+        <file>jiemian/zhanghao1.png</file>
+        <file>jiemian/mima1.png</file>
+        <file>jiemian/denglu.png</file>
+    </qresource>
+</RCC>

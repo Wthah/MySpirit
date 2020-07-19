@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myIco">
+        <file>mySpirit.ico</file>
+    </qresource>
+</RCC>

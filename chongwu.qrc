@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>quyudianji/quyudianji1.gif</file>
+        <file>quyudianji/quyudianji2.gif</file>
+        <file>quyudianji/quyudianji3.gif</file>
+        <file>zhuangtai/zhengchang1.gif</file>
+        <file>zhuangtai/zhengchang2.gif</file>
+        <file>zhuangtai/zhengchang3.gif</file>
+        <file>zhuangtai/jie1.gif</file>
+        <file>zhuangtai/jie2.gif</file>
+        <file>zhuangtai/ill1.gif</file>
+        <file>zhuangtai/ill2.gif</file>
+        <file>zhuangtai/siwang1.png</file>
+        <file>gongneng/Cure.png</file>
+        <file>gongneng/aplle.gif</file>
+        <file>gongneng/juice.gif</file>
+        <file>gongneng/riceBall.gif</file>
+        <file>gongneng/spunSugar.gif</file>
+        <file>gongneng/fun2.gif</file>
+        <file>gongneng/fun3.gif</file>
+        <file>gongneng/shengqi.gif</file>
+        <file>gongneng/fun1.gif</file>
+    </qresource>
+</RCC>

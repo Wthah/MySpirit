@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>beijing/beijing1.jpg</file>
+        <file>beijing/beijing2.png</file>
+        <file>beijing/beijing3.jpg</file>
+        <file>beijing/beijing4.jpg</file>
+        <file>beijing/beijing5.jpg</file>
+        <file>beijing/beijing6.jpg</file>
+        <file>beijing/beijing7.png</file>
+        <file>beijing/beijing8.jpg</file>
+        <file>beijing/beijing9.jpg</file>
+        <file>beijing/beijing.jpg</file>
+        <file>beijing/nameBeijing.jpg</file>
+    </qresource>
+</RCC>
